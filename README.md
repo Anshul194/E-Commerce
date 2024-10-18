@@ -36,7 +36,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MMansy19/E-Commerce-Website.git
+   git clone https://github.com/Anshul194/E-Commerce.git
    ```
 
 2. Navigate to the project directory:
